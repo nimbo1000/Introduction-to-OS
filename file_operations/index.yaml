@@ -18,3 +18,5 @@ details:
     code: minilab.sh
   finish:
     text: finish.md
+backend:
+  imageid: dind
