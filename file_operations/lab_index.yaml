@@ -18,3 +18,5 @@ details:
     code: setup.sh
   finish:
     text: finish.rst
+backend:
+  imageid: dind
