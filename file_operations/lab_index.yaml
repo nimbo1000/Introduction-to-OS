@@ -19,4 +19,4 @@ details:
   finish:
     text: finish.rst
 backend:
-  imageid: dind
+  imageid: ubuntu
