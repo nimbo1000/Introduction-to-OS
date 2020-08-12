@@ -2,7 +2,7 @@
 title: Introduction to OS
 description: Learn the components of an Operating Systems
 labs:
-  - title: File Operations
+  - title: File Operation
     description: Learn how to create a file, and display its contents
     directory: /file_operations
     number_of_tasks: 3
