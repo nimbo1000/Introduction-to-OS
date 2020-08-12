@@ -11,7 +11,7 @@
 ``pwd``\ {{execute}}
 
 
-4.  Finally, let’s create a file in the directory we are in called "test.txt"
+4.  Finally, let’s create a file in the directory we are in called 'test.txt'
 
 ``touch test.txt``\ {{execute}}
 
