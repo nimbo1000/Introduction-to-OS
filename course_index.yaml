@@ -1,6 +1,6 @@
 ---
 title: Introduction to OS
-description: Learn the components of an OS
+description: Learn the components of an Operating Systems
 labs:
   - title: File Operations
     description: Learn how to create a file, and display its contents
